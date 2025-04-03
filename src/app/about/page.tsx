@@ -1,4 +1,8 @@
 
+export const metadata={
+    title:"About Radium IT School",
+};
+
 const AboutPage = () => {
     return (
         <div>
